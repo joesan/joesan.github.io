@@ -31,7 +31,7 @@ jobs:
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1
         with:
-          args: -v 'docs/**/*.markdown'
+          args: -v "docs/**/*.markdown"
       - name: Create Issue From File
         uses: peter-evans/create-issue-from-file@v2
         with:
