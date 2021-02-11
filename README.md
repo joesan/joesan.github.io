@@ -1,4 +1,4 @@
-![Markdown Link Checker](https://github.com/navo-org/workflows/linkChecker/badge.svg)
+![Markdown Link Checker](https://github.com/navo-org/workflows/.github/workflows/main.yml/badge.svg)
 
 ## About Navo
 
