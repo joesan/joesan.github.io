@@ -5,7 +5,7 @@ parent: Tutorials
 nav_order: 5
 ---
 
-In this section, let us explore and understand this 17th century idea on how we could effectively do a speed control for the DC Motor, the [PID Controller]("https://en.wikipedia.org/wiki/PID_controller_test_) mechanism
+In this section, let us explore and understand this 17th century idea on how we could effectively do a speed control for the DC Motor, the <a href="https://en.wikipedia.org/wiki/PID_controller" target="_blank">PID Controller</a> mechanism
 
 ## PID Control
 
@@ -138,4 +138,4 @@ Now one question might arise on what values to choose for the PID co-efficients.
 
 Tuning the parameters or the gain in a runnng system is a topic in itself.
 
-Hope I was able to explain the PID controller mechanism! With this basic understanding, [head over here](https://navo-org.github.io/navo-docs/docs/tutorials/dc-motor-rpm-ros.html) to see how we could combine all what we have learnt theoretically so far to a more practical example.
+Hope I was able to explain the PID controller mechanism! With this basic understanding, <a href="https://navo-org.github.io/navo-docs/docs/tutorials/dc-motor-rpm-ros.html" target="_blank">head over here</a> to see how we could combine all what we have learnt theoretically so far to a more practical example.
